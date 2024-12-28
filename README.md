@@ -1,6 +1,7 @@
 # Banner
 A simple Bash script for performing reconnaissance on a target domain. It gathers information such as web application details, WAF detection, HTTP server info, and open ports. Results are saved to a specified file.
 
+![image](https://github.com/user-attachments/assets/87c5a9a8-328e-44c2-8b28-950994858b84)
 ![image](https://github.com/user-attachments/assets/590e422c-2d6b-420d-af09-08ad8c1286ad)
 ![image](https://github.com/user-attachments/assets/78182b4d-a14b-4911-9f04-e0f4e2836a8f)
 
